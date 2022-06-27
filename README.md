@@ -1,7 +1,7 @@
 ### 👋 Prazer! Sou Sérgio Fleury Dias Filho:
 
-- ✈ Trabalho atualmente como engenheiro de desenvolvimento de processos em uma empresa da área aeroespacial;
-- 👨‍🎓 Estou estudando programação web desde abril de 2021, principalmente Javascript e Typescript.
+- Desenvolvedor full-stack em formação:
+  ## Participando do programa de treinamento Top Coders da Let's Code.
 
 <div align="center">
   <a href="https://github.com/sergiofdf">
