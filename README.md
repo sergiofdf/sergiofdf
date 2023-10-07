@@ -1,7 +1,6 @@
 ### 👋 Prazer! Sou Sérgio Fleury Dias Filho:
 
-- Desenvolvedor full-stack em formação:
-- Participando do programa de treinamento Top Coders da ADA.
+- Desenvolvedor full-stack;
 
 <div align="center">
   <a href="https://github.com/sergiofdf">
